@@ -62,7 +62,7 @@ cd build_unix/
 
 Download the daemon from Eox Coin
 
-wget https://github.com/Eoxcoin/Wallets/releases/download/1.0/eox-daemon-linux.tar.gz" -O eox-daemon-linux.tar.gz
+wget https://github.com/Eoxcoin/Wallets/releases/download/1.0/eox-daemon-linux.tar.gz" -O eoxd-daemon-linux.tar.gz
 
 Extract the tar file.
 
