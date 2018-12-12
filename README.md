@@ -57,7 +57,7 @@ wget https://download.oracle.com/berkeley-db/db-4.8.30.zip
 unzip db-4.8.30.zip
 cd db-4.8.30
 cd build_unix/
-../dist/configure --prefix=/usr/local --enable-cxx
+../dist/configure --prefix/usr/local --enable-cxx
 make
 sudo make install
 
